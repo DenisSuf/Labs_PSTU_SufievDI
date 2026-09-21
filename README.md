@@ -15,4 +15,4 @@
 
 ---
 
-![Картинка] (https://abrakadabra.fun/uploads/posts/2022-01/1641870339_2-abrakadabra-fun-p-atmosfernii-fon-na-rabochii-stol-2.jpg)
+![Картинка](https://abrakadabra.fun/uploads/posts/2022-01/1641870339_2-abrakadabra-fun-p-atmosfernii-fon-na-rabochii-stol-2.jpg)
