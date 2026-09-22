@@ -21,4 +21,4 @@
 
 ---
 
-![Картинка](https://abrakadabra.fun/uploads/posts/2022-01/1641870339_2-abrakadabra-fun-p-atmosfernii-fon-na-rabochii-stol-2.jpg)
+![Картинка](https://resizer.mail.ru/p/378a19d1-0a56-5d35-b16b-600a35bc5a9f/AQAKxKwcMBtCxfFxz8TFWv_AGv5XPssROt5ga3M5_jDOb4jQfZg3PThTcHSksrW0Z__3WXOmVQZg2iFcZek9cxRzm0M.png)
