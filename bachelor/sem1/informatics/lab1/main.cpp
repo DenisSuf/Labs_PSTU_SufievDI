@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <math.h>
 int main()
@@ -18,8 +19,29 @@ int main()
 
     return 0;
 }
+*/
 
-// Если мы используем float, то мы теряем точнось вычислений
-// Переменные ab4 и a44a3b не помещаются в float.
-// Дробная часть теряется, оба числа округляются до одного значения.
-// Получается ab4 = a44a3b т.е их разность равна 0, знаменатель отрицательный, поэтому ответ становится -0.
+
+/*
+
+#include <iostream>
+#include <clocale>
+
+using namespace std;
+
+int main()
+{
+    int n, m;
+    cout << "n: ";
+    cin >> n;
+    cout << "m: ";
+    cin >> m;
+
+    cout << "1) " << n++ - m << endl;
+    cout << "2) " << (m-- > n) << endl;
+    cout << "3) " << (n-- > m) << endl;
+
+    return 0;
+}
+
+*/
