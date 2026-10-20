@@ -1,6 +1,6 @@
-#include <iostream>
-#include <cmath>
-#include <clocale>
+    #include <iostream>
+    #include <cmath>
+    #include <clocale>
 
 using namespace std;
 long long factorial(int n) 
@@ -25,4 +25,4 @@ int main()
     cout << "Результат суммы ряда (13 членов): " << sum << endl;
 
     return 0;
-}
+}   
